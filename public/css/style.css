@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    font-size: 40px;
+    text-decoration: none;
+    color: #000;
+}
+ul {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+li {
+    list-style: none;
+}
