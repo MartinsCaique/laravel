@@ -4,16 +4,22 @@
     box-sizing: border-box;
 }
 
-a {
+.link {
     font-size: 40px;
     text-decoration: none;
     color: #000;
 }
+
+.link:hover {
+    color: #00f;
+}
+
 ul {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
 }
+
 li {
     list-style: none;
-}
+}   
